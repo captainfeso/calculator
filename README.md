@@ -1,3 +1,7 @@
+
+---
+permalink: /index.html
+---
 Adding edits for the new branch
 - updating CSS so that we can have round corners 
 
