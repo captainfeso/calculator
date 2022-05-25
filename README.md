@@ -1,4 +1,5 @@
-Adding edits
+Adding edits for the new branch
+- updating CSS so that we can have round corners 
 
 # Getting Started with Create React App
 
